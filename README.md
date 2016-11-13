@@ -15,10 +15,10 @@ Notícias, dicas e truques da comunidade
 -------------------------------
 * Leia e inscreva-se no [Blog oficial do YOURLS](http://blog.yourls.org)
 * Follow [@yourls](http://twitter.com/yourls)
-* Inscreva-se no [YOURLS User Newsletter](http://yourls.org/newsletter) (infrequent, low volume)
+* Inscreva-se no [YOURLS User Newsletter](http://yourls.org/newsletter) (Pouco frequente, baixo volume)
 
 
-Notícias, dicas e truques da comunidade
+Acompanhar o desenvolvimento
 -------------------------
 * Follow [@yourls_dev](http://twitter.com/yourls_dev)
 * Check [commit messages](https://github.com/YOURLS/YOURLS/commits/master)
